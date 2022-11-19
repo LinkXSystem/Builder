@@ -1,0 +1,4 @@
+repository "Builder@linksystem@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
